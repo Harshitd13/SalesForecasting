@@ -74,7 +74,7 @@ This project analyzes **4 years of Superstore retail sales data (2015–2018)** 
 ## 📁 Project Structure
 
 ```text
-SalesForecasting_Harshit/
+SalesForecasting/
 │
 ├── analysis.ipynb
 ├── app.py
