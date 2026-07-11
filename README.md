@@ -4,6 +4,12 @@ An end-to-end Machine Learning and Time Series Forecasting project that predicts
 
 ---
 
+## 🌐 Live Demo
+
+🚀 **Live Streamlit Dashboard:** [View Dashboard](https://salesforecastingproject.streamlit.app/)
+
+---
+
 ## 📌 Project Overview
 
 This project analyzes **4 years of Superstore retail sales data (2015–2018)** to help businesses improve inventory planning and demand forecasting. It combines statistical forecasting, machine learning, anomaly detection, and product segmentation into a single decision-support system.
@@ -76,6 +82,8 @@ This project analyzes **4 years of Superstore retail sales data (2015–2018)** 
 ```text
 SalesForecasting/
 │
+├── .streamlit/
+│   └── config.toml 
 ├── analysis.ipynb
 ├── app.py
 ├── dashboard_data.json
